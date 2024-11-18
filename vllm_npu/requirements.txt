@@ -1,0 +1,11 @@
+numpy
+decorator
+attrs
+psutil
+absl-py
+cloudpickle
+scipy
+tornado
+transformers
+accelerate
+pandas
