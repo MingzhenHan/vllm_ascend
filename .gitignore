@@ -1,3 +1,6 @@
 vllm/
 examples/kernel_meta/
 .idea/
+vllm_npu/build/
+vllm_npu/dist
+vllm_npu/vllm_npu.egg-info
